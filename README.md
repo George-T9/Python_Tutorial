@@ -1,2 +1,2 @@
 # Python_Tutorial
- Tutorial of Python from CodeWithHarry
+Python Tutorial with CodeWithHarry
